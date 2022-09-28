@@ -2,12 +2,13 @@
 The 1st exercise is an intorudcution to Git. To learn the fundamantels to be anle to strat working there. 
 
 ## Key terminology
-Repository is essentially the main folder of a project.The repository contains all the relevant project files, including documentation, and also stores the revision history for each file 
-Push
-Fork is a copy of a repository
-Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
-Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
-Merge 
+* Repository is essentially the main folder of a project.The repository contains all the relevant project files, including documentation, and also stores the revision history for each file 
+* Push
+* Fork is a copy of a repository
+* Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub.
+* Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
+* Merge 
+* Markdown (.md)
 
 ## Exercise
 Opdracht:
@@ -30,5 +31,6 @@ https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/propos
 ### Overcome challenges
 Intensive Github library.
 ### Results
+I created a new repository, cloned the Cloud9 repository (what was optional) and invited my teammates.
 
 <img width="1180" alt="Screenshot 2022-09-26 at 16 21 05" src="https://user-images.githubusercontent.com/114391815/192300973-e0bb08d3-830e-4608-8db8-83bb76dd0d8d.png">
