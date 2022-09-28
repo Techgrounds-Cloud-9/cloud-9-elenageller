@@ -24,4 +24,4 @@ https://linuxconfig.org/single-linux-command-to-return-to-home-directory
 To find out how to connect with provided SSH key with require port.
 
 ### Results
-!(https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/91421e37753df5fd1693364d530c2ab6cffcf84d/00_includes/LNX-01.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/91421e37753df5fd1693364d530c2ab6cffcf84d/00_includes/LNX-01.png)
