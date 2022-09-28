@@ -24,5 +24,5 @@ https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
 Find out about absolute and realtive paths.
 
 ### Results
-!(https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-002.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-002.png)
 
