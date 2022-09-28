@@ -27,6 +27,6 @@ https://www.cyberciti.biz/faq/linux-append-text-to-end-of-file/
 Finding the right command to use echo command after I got a permission denied errors. 
 
 ### Results
-!(https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-03.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-03.png)
 
 
