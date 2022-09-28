@@ -31,8 +31,8 @@ where are the passwords of the users located.
 
 ### Results
 
-!(https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-04-1.png)
-!(https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-04-2.png)
-!(https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-04-3.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-04-1.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-04-2.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/LNX-04-3.png)
 
 
