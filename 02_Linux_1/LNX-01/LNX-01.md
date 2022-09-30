@@ -2,11 +2,9 @@
 
 
 ## Key terminology
-Container
-GUI
-VM
-Hypervisor
-SSH
+The working directory (workspace) is essentially your project folder. 
+A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.
+SSH. Youcan access and write data in repositories on GitHub.com using SSH (Secure Shell Protocol). When you connect via SSH, you authenticate using a priv ate key file on your local machine. 
 
 ## Exercise
 Find out your current working directory.
