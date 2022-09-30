@@ -2,12 +2,10 @@
 
 
 ## Key terminology
-root
-sudo
-useradd
-usermod
-
-
+root - is the superuser account in Unix and Linux
+sudo - allows you to run programs with the security privileges of another user (by default, as the superuser). It prompts you for your personal password and confirms your request to execute a command by checking a file, called sudoers , which the system administrator configures.
+useradd - is command to add new user
+usermod - is used to modify existing user account details, such as username, password, home directory location, default shell, and more.
 
 
 ## Exercise
