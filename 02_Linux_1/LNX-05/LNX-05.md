@@ -2,9 +2,9 @@
 
 
 ## Key terminology
-chmod
-chown
-chgrp
+chmod - is used to change the access mode of a file and assign permissions.
+chown - changes user ownership of a file, directory, or link in Linux. 
+chgrp - is used to change the group ownership of a file or directory
 
 ## Exercise
 Create a text file.
