@@ -2,10 +2,9 @@
 
 
 ## Key terminology
-Input redirection
-Output redirection
-echo
-tee
+echo - is used to display text or a string. It can also be used to store text or strings in a bash script.
+tee - writes arguments to a specified file while also displaying the specified arguments in the command line interface
+grep - is used to search for specific keywords or an expression in a specified file
 
 
 ## Exercise

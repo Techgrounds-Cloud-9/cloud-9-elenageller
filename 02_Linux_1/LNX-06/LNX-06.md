@@ -2,10 +2,9 @@
 
 
 ## Key terminology
-Telnet Daemon
-PID
-systemctl
-kill process
+Telnet daemon (telnetd) is the server program that responds to client requests for the Internet-based Telnet remote terminal emulation service; permits remote users to run commands and programs on other computers across any IP-based network, including the Internet. 
+systemctl - manages both system and service configurations, enabling administrators to manage the OS and control the status of services
+kill process - stopp process 
 
 ## Exercise
 Start the telnet daemon.
