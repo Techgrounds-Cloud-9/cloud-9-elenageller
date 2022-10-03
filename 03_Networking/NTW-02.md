@@ -34,8 +34,8 @@ I had to find my router IP address in order ot login as admin to view all connec
 Used command: netstat -nr|grep default
 
 ### Results
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-02-1.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-02-2.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-02-3.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-02-4.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-02-5.png)
