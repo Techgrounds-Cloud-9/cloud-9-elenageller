@@ -1,6 +1,6 @@
-#OSI Stack
+# OSI Stack
 
-##Key terminology
+## Key terminology
 The Open Systems Interconnection model (OSI model)
 
 Similarities between OSI and TCP / IP Reference Models
@@ -16,12 +16,12 @@ In OSI, the model was developed first and then the protocols in each layer were 
 The OSI has seven layers while the TCP/IP has four layers.
 
 
-##Exercise
+## Exercise
 Study:
 The OSI model and its uses.
 The TCP/IP model and its uses.
 
-###Sources
+### Sources
 
 https://www.researchgate.net/figure/The-logical-mapping-between-OSI-basic-reference-model-and-the-TCP-IP-stack_fig2_327483011
 https://community.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html
@@ -29,4 +29,6 @@ https://www.geeksforgeeks.org/tcp-ip-model/
 https://www.tutorialspoint.com/OSI-vs-TCP-IP-Reference-Model#:~:text=OSI%20model%20is%20a%20generic,clear%20distinction%20between%20these%20three. 
 
 
-###Results
+### Results
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-01-1.png)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-01-2.jpeg)
