@@ -38,7 +38,7 @@ To analyze the data from Wireshack
 
 ### Results
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-03-1.png)
 
 The organisations that determine what protocols we use are:
 
@@ -54,7 +54,7 @@ Internet Research Task Force (IRTF)
 For new protocol needed - have it accepted by an IETF working group.
 
 In Wireshack I filtered by TCP protocols, and found 3 way handshake. You can see for each of the pakket what protocol it is, and what the aknowledgement is, its number and sequence numbers. How the converstaion being tracked by TCP from client (myb computer) to server
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-03-2.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW03-3.gif)
 
