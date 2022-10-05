@@ -33,27 +33,27 @@ Try changing the private IP address of your mobile to an address outside your ne
 
 My public IP address ois what router use for surfing in internet. Put in Google my IP address and ot shows it right the way
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW05-0.png)
 
-COnfirm it with other website 
+Confirmed it with other website 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW05-01.png)
 
 The router assigns each device a unique private IP address so it can send data to the device that’s actually requesting it. Devices on the same network use private IP addresses with the difference in the last digit after dot.
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-05-1.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW05-2.jpeg)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-05-3.png)
 
 Unless your router malfunctions, two devices should never get the same IP address under this system. Your router knows which IP addresses are already in use and won't give them out twice. More commonly, an IP conflict can occur when you assign static IP addresses on your network. It will temporarily disrupt whatever internet-connected services or programs you're using on your device. There's no harm done, but it's going to have the same effect as if you'd momentarily lost your Wi-Fi
 When I changed to the the same my laptop has, I still could see full Wifi bar but connection was not available.
 
-![Screenshot]()
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-05-5.jpeg)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW05-4.jpeg)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-05-6.jpeg)
 
 When I changed my Private IP to outside network, I had an exactly the same problem. Still saw a full bar, but connection was gone
 
-![Screenshot]()
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-05-7.jpeg)
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-05-8.jpeg)

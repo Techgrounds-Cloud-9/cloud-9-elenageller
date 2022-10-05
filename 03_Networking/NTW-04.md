@@ -32,6 +32,6 @@ to learn the rules of calculations
 ### Results
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-04-1.png)
 
 
