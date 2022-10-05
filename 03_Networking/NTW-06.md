@@ -37,6 +37,6 @@ If we need to create 3 subnets, then we check the maximum number of hosts per su
 Broadcast IP we get from next Subnets network IP (current Network IP + 64) minus 1. 
 In my example First Subnet's Network IP is 192.168.10.0, 2nd - 192.168.10.64 and 3rd- 192.168.10.128. Where 62 is the number of hosts which is within our requirements for this exercise.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-06-1.png)
 
 
