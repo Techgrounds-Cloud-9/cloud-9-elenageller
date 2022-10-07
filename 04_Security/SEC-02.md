@@ -35,15 +35,18 @@ To find an externat ip adress which must be connected through port which we have
 
 First I need to install Apache, and open a default page in the browser
  and then allow the required ports to ufw firewall, then to close web by denying responsible ports.
-![Screenshot]()
+ 
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-02-1.png)
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC02-2.png)
 
  and then allow the required ports to ufw firewall, then to close web by denying responsible ports.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-02-3.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-02-4.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-02-4.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-02-5.png)
 

@@ -37,11 +37,7 @@ none
 
 The key difference between authentication and authorization is that the user’s or service’s identity is confirmed through authentication, and their access privileges are established through authorization.
 
-![Screenshot]()
-
 MFA is used to authenticate if the identity of a user is genuine. It requires a user to present two or more pieces of evidence, or factors, for authentication. A key goal for MFA is to add additional authentication factors to increase security.
-
-![Screenshot]()
 
 How LOP improves security.
 
@@ -50,6 +46,6 @@ Limited malware propagation and reduced blast radius
 Better system stability, due to restricted effect of changes 
 Improved audit readiness & proactive compliance  
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-03-3.png)
 
 
