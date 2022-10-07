@@ -18,7 +18,7 @@ Hosts . Each computer, or host, on the internet has at least one IP address as a
 
 ## Exercise
 
-**Create a network architecture that meets the following requirements: 
+**Create a network architecture that meets the following requirements:**  
 
 1 private subnet accessible only from within the LAN. This subnet must be able to accommodate a minimum of 15 hosts.
 1 private subnet that has Internet access through a NAT gateway. This subnet must be able to accommodate a minimum of 30 hosts (the 30 hosts does not include the NAT gateway).
