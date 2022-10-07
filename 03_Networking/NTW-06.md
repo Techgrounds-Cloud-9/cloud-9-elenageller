@@ -33,10 +33,10 @@ learn and understand about subnetting
 
 ### Results
 
-If we need to create 3 subnets, then we check the maximum number of hosts per subnet is 64 (excl. 2 which are Broadcast IP and Network IP), then maximum number is 62 hosts.
+If we need to create 3 subnets, then we check the maximum number of hosts per subnet, excl. 2 which are Broadcast IP and Network ID.
 Broadcast IP we get from next Subnets network IP (current Network IP + 64) minus 1. 
-In my example First Subnet's Network IP is 192.168.10.0, 2nd - 192.168.10.64 and 3rd- 192.168.10.128. Where 62 is the number of hosts which is within our requirements for this exercise.
+In my example First Subnet's Network IP is 192.168.10.0/26 for 30 hosts, 2nd - 192.168.10.64/27 for 15 hosts and 3rd- 192.168.10.96/29 for 5 hosts.
 
-![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/NTW-06-1.png)
+![Screenshot]()
 
 
