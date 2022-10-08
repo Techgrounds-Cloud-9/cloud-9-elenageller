@@ -3,14 +3,18 @@
 
 ## Key terminology
 
-Subnet is a segmented piece of a larger network. Subnets are a logical partition of an IP network into multiple, smaller network segments.  
+* Subnet is a segmented piece of a larger network. Subnets are a logical partition of an IP network into multiple, smaller network segments.  
 Instances in the private subnet are back-end servers that don't need to accept incoming traffic from the internet and therefore do not have public IP addresses
-A public subnet is a subnet that's associated with a route table that has a route to an internet gateway.
-A routing table is a set of rules, often viewed in table format, that is used to determine where data packets traveling over an Internet Protocol (IP) network will be directed.
-LAN
-NAT gateway (Network Address Translation) provides outbound internet connectivity for one or more subnets of a virtual network. Once NAT gateway is associated to a subnet, NAT provides source network address translation (SNAT) for that subnet. 
-Hosts . Each computer, or host, on the internet has at least one IP address as a unique identifier.
-An IP address is divided into two fields: a Network Prefix (also called the Network ID) and a Host ID.
+
+* A public subnet is a subnet that's associated with a route table that has a route to an internet gateway.
+
+* A routing table is a set of rules, often viewed in table format, that is used to determine where data packets traveling over an Internet Protocol (IP) network will be directed.
+
+* NAT gateway (Network Address Translation) provides outbound internet connectivity for one or more subnets of a virtual network. Once NAT gateway is associated to a subnet, NAT provides source network address translation (SNAT) for that subnet. 
+
+* Hosts . Each computer, or host, on the internet has at least one IP address as a unique identifier.
+
+* An IP address is divided into two fields: a Network Prefix (also called the Network ID) and a Host ID.
 
 ## Exercise
 

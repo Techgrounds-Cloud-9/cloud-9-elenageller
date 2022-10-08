@@ -2,24 +2,25 @@
 [There is no network without network devices if you want to connect more than two computers together. 
 
 ## Key terminology
-router
-A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection
-switch
-A switch is a multi-port device that enhances network efficiency. It provides limited routing information about nodes in the internal network and allows systems to connect.
-repeaters 
-It extends the length of the signal and allows it to transmit over the same network. In other words, it simply copies the signal bit by bit and re-generates at its original strength by operating at the physical layer.
-access point 
-First, as a regular wired network for wireless devices. Second, like a router for transferring data between different access points.
+
+* A router is a device that connects two or more packet-switched networks or subnetworks. It serves two primary functions: managing traffic between these networks by forwarding data packets to their intended IP addresses, and allowing multiple devices to use the same Internet connection
+
+* A switch is a multi-port device that enhances network efficiency. It provides limited routing information about nodes in the internal network and allows systems to connect.
+
+* Repeaters extend the length of the signal and allows it to transmit over the same network. In other words, it simply copies the signal bit by bit and re-generates at its original strength by operating at the physical layer.
+
+*  Access Point. First, as a regular wired network for wireless devices. Second, like a router for transferring data between different access points.
 
 ## Exercise
 Study:
-Network Devices
-The OSI model in relation to these network devices
+1. Network Devices
+2. The OSI model in relation to these network devices
 Supplies:
-Your own network
-Admin access credentials for your router
+1. Your own network
+2. Admin access credentials for your router
 
-Assignment:
+**Assignment:**
+
 Name and describe the functions of common network devices
 Most routers have a list of all connected devices, find this list. What other information does the router have about connected devices?
 Where is your DHCP server on your network? What are its configurations?

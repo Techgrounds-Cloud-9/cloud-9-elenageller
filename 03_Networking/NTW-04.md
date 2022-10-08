@@ -3,12 +3,12 @@
 
 ## Key terminology
 
-bit: one digit (0 or 1) byte: 8 bits.
+* bit: one digit (0 or 1) byte: 8 bits.
 highest value for a byte = 255 Binary: base 2 (2 digits, 0 and 1), important for IP addressing and subnetting.
-Decimal= a 10 based numeral system you can use the numbers from 0 to 9 for numerical notation.
-Hexadecimal= based on 16 symbols, 0 to 9 and A to F is also a numeral system with the addition that it uses alphabetical symbols to add up to 16.
-Binary - a 2 based numeral system existing out of only 0's and 1's.
-Base - represents the symbols available in a counting system.
+* Decimal= a 10 based numeral system you can use the numbers from 0 to 9 for numerical notation.
+* Hexadecimal= based on 16 symbols, 0 to 9 and A to F is also a numeral system with the addition that it uses alphabetical symbols to add up to 16.
+* Binary - a 2 based numeral system existing out of only 0's and 1's.
+* Base - represents the symbols available in a counting system.
 
 ## Exercise
 
