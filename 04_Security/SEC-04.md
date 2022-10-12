@@ -36,7 +36,8 @@ https://www.comparitech.com/blog/information-security/what-is-aes-encryption/
 
 ### Overcome challenges
 
-Firs I got puzzled how to share the encryption key without revealing it to everyone, but after research I found a **Diffie Hellman method/algorithm** 
+to find out the right step for encryption and dycription. 
+My explanation is below in results section.
 
 ### Results
 
@@ -51,7 +52,9 @@ SSL/TLS connections
 Bluetooth connections
 Cellular and 4G connections
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-02.png)
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-01.png)
 
 * Block ciphers
 Data Encryption Standard (DES)
@@ -71,34 +74,35 @@ RC5
 
 
 3. Symmetric keys can be exchanged safely between two systems when encrypted using an RSA public key. Sending system and receiving system do not need to share a secret key to be able to exchange RSA-encrypted symmetric keys.
+
 * First I encrypted my message with AES encryption (https://www.devglan.com/online-tools/aes-encryption-decryption)
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-03.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-04.png)
 
-* Then I generate RSA public key (https://www.devglan.com/online-tools/rsa-encryption-decryption). This key we can share with our peer publicly for futher usage.
+* Then I generate RSA public key (https://www.devglan.com/online-tools/rsa-encryption-decryption). This key we can be shared with our peer publicly for futher usage.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-05.png)
 
 * Then I need to encypt my secret key using Public key generated earlier.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-06.png)
 
 * Next step is decrypting message by RSA decryption by entering decrypted text in previous step/ or the decrypted text shared by peer which was decrypted by using RSA public key provided earlier by me. 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-07.png)
 
-I am using my Private key which was generated together with OPublic key which I sent it over in public chanel to be used for decryprion of secret key.
+I am using my Private key which was generated together with Public key which I sent it over into public chanel to be used for decryprion of secret key.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-10.png)
 
 * That is how I have a secret key which was used to decyrpt AES message, using this key I decrypted the encypted message.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-08.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-04-09.png)
 
 
-Conclusion: In order to do that, one of the peers must first Share a decrypted message in AES and decrypted secret key (RSA) in public chanel. FRom another peer was required to provide a Publi key, which was used to decreyp a secret key in previous step.
+**Conclusion: In order to do that, one of the peers must first Share a decrypted message in AES and decrypted secret key (RSA) in public chanel. From another peer was required to provide a Publi key, which was used to decreyp a secret key in previous step by using his Private key which was generated simultaneously with Public key for another peer**
