@@ -42,9 +42,9 @@ Hashing is almost always preferable to encryption when storing passwords inside 
 Once they have the password hashes the rainbow table is used to help decrypt the password hashes. As long as the password hashes don't include a “salt,” (explained above) they’ll be able to translate the encrypted passwords into plaintext easily.
 
 3. 
-Hash	                           Type	        Result
-03F6D7D1D9AAE7160C05F71CE485AD31	md5 	   welldone!
-03D086C9B98F90D628F2D1BD84CFA6CA	Unknown	   Not found.
+* Hash	                           Type	        Result
+* 03F6D7D1D9AAE7160C05F71CE485AD31	md5 	   welldone!
+* 03D086C9B98F90D628F2D1BD84CFA6CA	Unknown	   Not found.
 
 4. 
 ![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-07-01.png)
