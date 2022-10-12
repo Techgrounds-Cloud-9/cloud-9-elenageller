@@ -25,13 +25,13 @@ Most notably, asymmetric encryption powers PKI.
 
 * Certification authorities. One of the key components of any PKI architecture is a certification authority, or what’s more commonly called a certificate authority or CA. An organization can rely on one or more CAs within its PKI.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-06-01.png)
 
 * Public PKI (Public CA) — This term refers to a PKI that issues certificates that are automatically trusted by most browsers and devices. For example, if you purchase an SSL certificate from The SSL Store, that certificate is issued by a public CA. This is the most commonly used type of PKI.
 
 * Private PKI (Private CA) — This refers to PKI that is only used to secure your internal network. The certificates won’t be automatically trusted on all devices — you’ll need to install the appropriate root certificate on each device first. The plus side is that you have a lot more control over the certificates you issue. Private PKI can be set up via tools like Microsoft CA or via managed PKI services (aka mPKI or PKI as a service).
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-06-02.png)
 
 * Registration Authority (RA):
 Which is authorized by the Certificate Authority to provide digital certificates to users on a case-by-case basis. All of the certificates that are requested, received, and revoked by both the Certificate Authority and the Registration Authority are stored in an encrypted certificate database.
@@ -48,6 +48,7 @@ https://www.keyfactor.com/resources/what-is-pki/
 https://www.youtube.com/watch?v=Jefr7wFLu3M
 https://www.thesslstore.com/blog/pki-architecture-fundamentals-of-designing-a-private-pki-system/
 https://linuxize.com/post/creating-a-self-signed-ssl-certificate/ 
+https://unix.stackexchange.com/questions/97244/list-all-available-ssl-ca-certificates
 
 ### Overcome challenges
 
@@ -55,16 +56,15 @@ https://linuxize.com/post/creating-a-self-signed-ssl-certificate/
 ### Results
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-06-03.png)
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-06-04.png)
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-06-05.png)
 
-![Screenshot]()
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-06-06.png)
 
-![Screenshot]()
+
