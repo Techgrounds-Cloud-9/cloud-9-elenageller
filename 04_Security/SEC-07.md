@@ -52,4 +52,6 @@ Once they have the password hashes the rainbow table is used to help decrypt the
 
 The user was added with the weak password that is why the salt and hash is shown. 
 
+Even though everyonw used the same simple password, hash is different.
 
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-07-02.png)
