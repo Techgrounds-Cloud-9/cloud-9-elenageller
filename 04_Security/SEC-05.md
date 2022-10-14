@@ -13,7 +13,7 @@ Asymmetric encryption solves this issue. Instead of 1 key, you get 2: A public k
 
 * The Diffie-Hellman algorithm will be used to establish a secure communication channel. This channel is used by the systems to exchange a private key. This private key is then used to do symmetric encryption between the two systems.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-05-01.png)
 
 **Difference Between Symmetric and Asymmetric Encryption**
 
@@ -47,10 +47,10 @@ https://www.devglan.com/online-tools/rsa-encryption-decryption
 
 Its ecatly the same outcome as Exercise 4, the only difference might be in Encryption, instead of AES use RSA encryption method. The generate a Public and Private key, share the public key for encryption by other peer, and decryprt it with the private key which was simultaneously generated with Public key.
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-05-02.png)
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/SECURITY/SEC-05-03.png)
 
 
 
