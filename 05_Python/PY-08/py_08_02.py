@@ -1,5 +1,5 @@
 import csv
-myFile = open("py8.csv", "r+")
+myFile = open("book1.csv", "r+")
 print(myFile.read())
 
 
@@ -21,5 +21,5 @@ print (myDict)
 writer = csv.writer(myFile)
 writer.writerow(myDict.values())
 myFile.close()
-myFile = open("py8.csv", "r")
+myFile = open("book1.csv", "r")
 print(myFile.read())
