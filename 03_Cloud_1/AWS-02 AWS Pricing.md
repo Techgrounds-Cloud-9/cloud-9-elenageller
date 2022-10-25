@@ -32,3 +32,7 @@ https://aws.amazon.com/free/registration-faqs/
 * S3 - new AWS customers receive 5GB of Amazon S3 storage in the S3 Standard storage class; 20,000 GET Requests; 2,000 PUT, COPY, POST, or LIST Requests; and 100 GB of Data Transfer Out each month.
 * EC2 - This includes 750 hours of Linux and Windows t2.micro instances (t3.micro for the regions in which t2.micro is unavailable), each month for one year. To stay within the Free Tier, use only EC2 Micro instances.
 * Some of the services like Amazon EC2, Amazon Cloudfront, Amazon S3 are free for a 12 month period, some like Amazom DynamoDB, Amazon Chime are always free, and others like Amazon Redshift, Amazon Lightsail have short term free trials, typically 30-60 days.
+
+**the differences between capex and opex**
+
+The up-front cost from CapEx has a value that reduces over time. All expenses incurred for long-term benefits in the future lie under CapEx. Operational Expenditure (OpEx): It is like a pay-as-you-go service. You can deduct this expense in the same year you spend it.
