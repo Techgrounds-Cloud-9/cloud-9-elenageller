@@ -65,3 +65,20 @@ https://www.youtube.com/watch?v=-mIANj3lBFk
 none
 
 ### Results 
+
+**Exercise 1** 
+
+[Screenshot] (https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week1/aws05-01-1.png) 
+
+[Screenshot] (https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week1/aws05-01-2.png)
+
+[Screenshot] (https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week1/aws05-01-3.png)
+
+[Screenshot] (https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week1/aws05-01-4.png)
+
+**Exercise 2** 
+
+[Screenshot] ()https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week1/aws05-02-1.png
+
+[Screenshot] (https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week1/AWS05-02-2.png)
+
