@@ -1,4 +1,4 @@
-# AWS Global Infrastructure
+# EC2
 
 
 ## Key terminology
