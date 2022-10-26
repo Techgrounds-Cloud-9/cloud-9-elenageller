@@ -1,4 +1,4 @@
-# Simple Storage Service (S3)
+# EC2
 
 
 ## Key terminology
