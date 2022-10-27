@@ -21,6 +21,7 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cl
 1. Trade Capital expense (CapEx) for variable expense (OpEx)
 
 The Cloud allows you to trade your CAPEX (Capital Expenses) to OPEX (Operational expense or variable expense). This means that instead of investing in data centers and servers, you will only pay for what you are consuming and when you are consuming it. It will allow you to focus on delivering new products instead of maintaining and create your own infrastructure.
+
 2. Benefit from massive economies of scale
 
 Because cloud providers sell to a lot of different customers (economic of scale), it would be impossible that you would achieve that kind of price by building your own infrastructure.
