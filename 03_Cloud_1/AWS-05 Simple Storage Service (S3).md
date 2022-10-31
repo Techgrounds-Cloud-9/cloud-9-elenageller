@@ -6,11 +6,9 @@
 * Objects are automatically replicated within a region, so that there’s always at least three copies available. This redundancy greatly increases the availability and durability of objects stored in S3.
 
 **There are 4 storage classes:**
-S3 Standard
-S3 Standard-IA
-S3 One-zone IA
-S3 Glacier
-* There’s also S3 Glacier Deep archive, a subclass of S3 Glacier. And Intelligent Tiering which is more a cost optimization tool than a class on its own.
+1. S3 Standard — The default storage class. If you don't specify the storage class when you upload an object, Amazon S3 assigns the S3 Standard storage class.
+
+2. Reduced Redundancy — The Reduced Redundancy Storage (RRS) storage class is designed for noncritical, reproducible data that can be stored with less redundancy than the S3 Standard storage class.
 **Storage classes differ in availability, durability, retrieval time, and cost.**
 
 **In S3, you pay for:**
