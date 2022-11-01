@@ -15,9 +15,6 @@ VPCs operate at the regional level, while subnets can only be placed into a sing
 Elastic IPs are also available from the VPC menu. EIPs are public IP addresses that can be dynamically allocated to resources like EC2 instances or NAT gateways.
 
 
-## Key terminology
-
-* 
 
 ## Study
 
@@ -89,18 +86,45 @@ Connect to your server using the public IPv4 DNS name.
 
 ### Used Sources
 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html
+https://docs.aws.amazon.com/directoryservice/latest/admin-guide/gsg_create_vpc.html
+https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
 
 ### Overcome challanges
 
 ### Results 
 
-![Screenshot]()
+### Exercise 1
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-01-1.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-01-2.png)
+
+### Exercise 2
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-02-1.png)
 
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-02-2.png)
 
-![Screenshot]()
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-02-3.png)
+
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-02-4.png)
+
+
+### Exercise 3
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-03-1.png)
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-03-2.png)
+
+### Exercise 4
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-04-1.png)
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-04-2.png)
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws10-04-3.png)
