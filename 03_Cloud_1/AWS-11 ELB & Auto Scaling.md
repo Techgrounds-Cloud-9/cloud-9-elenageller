@@ -18,9 +18,19 @@ Gateway Load Balancer: this ELB acts as a gateway into your network, as well as 
 
 ## Key terminology
 
-* 
+* An Amazon Machine Image (AMI) is a supported and maintained image provided by AWS that provides the information required to launch an instance. You must specify an AMI when you launch an instance. You can launch multiple instances from a single AMI when you require multiple instances with the same configuration.
+
+* An Amazon Machine Image (AMI) is a template that contains a software configuration (for example, an operating system, an application server, and applications). From an AMI, you launch an instance, which is a copy of the AMI running as a virtual server in the cloud.
+
+* A load balancer serves as the single point of contact for clients. The load balancer distributes incoming application traffic across multiple targets, such as EC2 instances, in multiple Availability Zones. This increases the availability of your application. You add one or more listeners to your load balancer.
+
+* A listener is a process that checks for connection requests. It is configured with a protocol and a port for connections from clients to the load balancer
+
+* A launch configuration is a template that an EC2 Auto Scaling group uses to launch EC2 instances. When you create a launch configuration, you specify information for the instances such as the ID of the Amazon Machine Image (AMI), the instance type, a key pair, one or more security groups, and a block device mapping.
+
 
 ## Exercise 1
+
 Launch an EC2 instance with the following requirements:
 Region: Frankfurt (eu-central-1)
 AMI: Amazon Linux 2
@@ -56,6 +66,7 @@ Name: LabTargetGroup
 Targets: to be registered by Auto Scaling
   
 ##  Exercise 3
+
 Create a launch configuration for the Auto Scaling group. It has to be identical to the server that is currently running.
 Create an auto scaling group with the following requirements:
 Name: Lab ASG
@@ -79,6 +90,12 @@ Perform a load test on your server(s) using the website on your server to activa
 
 ### Used Sources
 
+https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/tkv-create-ami-from-instance.html
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/create-application-load-balancer.html
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-target-groups.html
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.html
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-config.html 
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-template.html
 
 ### Overcome challanges
 
@@ -87,33 +104,36 @@ Perform a load test on your server(s) using the website on your server to activa
 
 ## Exercise 1
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-01-1.png)
 
-![Screenshot]()
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-01-2.png)
+
 
 
 ## Exercise 2
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-02-1.png)
 
-![Screenshot]()
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-01-2.png)
 
 
 ## Exercise 3
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-03-1.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-03-2.png)
 
-![Screenshot]()
+
 
 
 ## Exercise 4
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-03-3.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-03-4.png)
 
-![Screenshot]()
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-03-5.png)
+
+![Screenshot](https://github.com/Techgrounds-Cloud-9/cloud-9-elenageller/blob/main/00_includes/AWS%20week2/aws11-03-6.png)
