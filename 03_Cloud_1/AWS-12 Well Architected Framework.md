@@ -63,7 +63,6 @@ The Reliability pillar encompasses the ability of a workload to perform its inte
 
 **5 Design Principles**
 
-
 * Automatically recover from failure
 * Test recovery procedures
 * Scale horizontally to increase aggregate workload availability
