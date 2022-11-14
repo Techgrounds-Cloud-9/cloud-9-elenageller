@@ -25,6 +25,16 @@
 5. RDS
 6. Aurora
 
+## Practical:
+
+1. EFS	
+2. RDS/Aurora
+
+**A handy list of tasks you should be able to do practically:**
+Where can I find this service in the console?
+How do I turn on this service?
+How can I link this service to other resources?
+
 ### Used Sources
 
 https://docs.aws.amazon.com
